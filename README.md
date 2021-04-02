@@ -1,4 +1,4 @@
-#@McJulez-png. All McJ tokens have been minted by the request of @McJulez-png. 
+#McJulez-png
 
 This is the icon server for ZEY, one-of-one NFTs based on the SLP layer of Bitcoin Cash. 
-All artwork is created by @McJulez-png. All McJ tokens have been minted by the request of @McJulez-png.
+All artwork is created by @McJulez-png.
